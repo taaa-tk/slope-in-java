@@ -1,2 +1,2 @@
-# slope-in-java
+# slope-line-in-java
 a project for the fundamentals of computer programming class
